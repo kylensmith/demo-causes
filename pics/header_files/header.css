@@ -1,0 +1,44 @@
+body {
+	background-image: url(pics/background.jpg);
+	background-size: 100%;
+}
+
+.header-pic { 
+	border-radius: 60%;
+	display: block;
+	width: 170px;
+	margin: 25px;
+	float: right;
+
+}	
+
+
+.header-wrap {
+	width: 700px;
+	margin: auto;
+}
+
+/*#title-wrap {
+	width: 300px;
+	margin: auto;
+}*/
+
+#subheading {
+	position: relative;
+	text-align: center;
+	text-indent: 40px;
+	color: orange;
+	margin: 0;
+
+
+}
+
+
+#header-font {
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center
+	color: white;
+	font-style: helvetica;
+
+}
