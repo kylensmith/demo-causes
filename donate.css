@@ -1,0 +1,28 @@
+.donate_content {
+	text-align: center;
+	margin: 50px auto;
+	width: 1000px;
+	/*display: table;*/
+}
+
+.donate_content img {
+	border: solid 2px;
+	border-radius: 10%;
+	margin: 30px;
+	width: 400px;
+
+}
+
+.photobox {
+	display: inline-block;
+	margin: 0px;
+	position: relative;
+}
+
+.photobox p {
+	left: 50px;
+	bottom: 200px;
+	position: absolute;
+	color: white;
+
+}	

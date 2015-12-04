@@ -1,0 +1,47 @@
+body {
+	background: #84B3FF;
+}
+.index_content {
+	margin: 50px 100px 0px 100px;
+}
+
+.index_content img {
+	margin-right: 100px;
+	margin-bottom: 100px;
+}
+
+.george {
+/*	border: solid 2px;
+*/	border-radius: 10%;	
+	width: 400px;
+	float: left;
+}
+.index_separater {
+	float: left;
+	margin-bottom: 100px;
+	margin-right: 50px;
+	border-radius: 40%;
+	width: 0px;
+	height: 400px;
+	border: solid 2px black;
+	display: inline-block;
+}
+
+.index_paragraph {
+	color: white;
+	font-size: 20px;
+	font-family: georgia;
+	width: 400px;
+}
+
+.index_text_container {
+	display: inline-block;
+	text-align: justify;
+	float: left;	
+}
+
+.index_heading {
+	color: white;
+	font-family: georgia;
+	text-align: center;
+}
