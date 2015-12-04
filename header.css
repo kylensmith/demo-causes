@@ -1,3 +1,5 @@
+/*NOTE: This CSS file is also used for the footer.*/
+
 body {
 	background-image: url(pics/background.jpg);
 	background-size: 100%;
@@ -71,4 +73,11 @@ body {
 .lower-heading {
 	text-align: center;
 
+}
+
+.footer-divider {
+	width: 600px;
+	height:0px;
+	border-width: 1px;
+	border-color: white;
 }
