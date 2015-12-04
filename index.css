@@ -1,20 +1,13 @@
 body {
 	background: linear-gradient(#84B3FF, white);
 }
-.content {
+.index_content {
 	margin: 50px 100px 0px 100px;
 }
 
-.content img {
+.index_content img {
 	margin-right: 100px;
 	margin-bottom: 100px;
-	width: 400px;
-}
-
-.header {
-	border: solid 2px black;
-	width: 100%;
-	height: 200px;
 }
 
 .george {
@@ -23,7 +16,7 @@ body {
 	width: 400px;
 	float: left;
 }
-.separater {
+.index_separater {
 	float: left;
 	margin-bottom: 100px;
 	margin-right: 50px;
@@ -40,7 +33,7 @@ body {
 	width: 400px;
 }
 
-.text_container {
+.index_text_container {
 	display: inline-block;
 	text-align: justify;
 	float: left;	
