@@ -1,3 +1,7 @@
+body {
+	/*background: #84B3FF;*/
+}
+
 .donate_content {
 	text-align: center;
 	margin: 50px auto;
@@ -13,16 +17,21 @@
 
 }
 
-.photobox {
+.donate_photobox {
 	display: inline-block;
 	margin: 0px;
 	position: relative;
 }
 
-.photobox p {
-	left: 50px;
-	bottom: 200px;
-	position: absolute;
-	color: white;
+.donate_photobox p {
+	font-size: 30px;
+	margin: 0;
+	/*color: white;*/
+}
 
-}	
+.donate_absolute {
+	position: absolute;
+	width: 100%;
+	bottom: 100px;
+	text-align: center;
+}
