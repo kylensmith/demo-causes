@@ -1,0 +1,22 @@
+.footer-divider {
+	width: 600px;
+	height: 1px;
+	border-width: 1px;
+	border-color: black;
+}
+
+hr {
+   display: block;
+   position: relative;
+   padding: 0;
+   margin: auto;
+   height: 0;
+   width: 300px;
+   max-height: 0;
+   font-size: 1px;
+   line-height: 0;
+   clear: both;
+   border: none;
+   border-top: 1px solid #aaaaaa;
+   border-bottom: 1px solid #ffffff;
+}
