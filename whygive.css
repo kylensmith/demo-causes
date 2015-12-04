@@ -1,0 +1,41 @@
+body {
+	background-color: #6E6158;
+}
+
+.whygive_content {
+	text-align: center;
+	margin: 50px auto;
+	width: 1000px;
+	/*display: t`able;*/
+}
+
+.whygive_content img {
+	border-radius: 10%;
+	margin: 30px;
+	width: 400px;
+
+}
+
+.whygive_photobox {
+	display: inline-block;
+	margin: 0px;
+	position: relative;
+}
+
+.whygive_photobox p {
+	font-size: 40px;
+	margin: 0;
+	color: white;
+}
+
+.whygive_absolute {
+	position: absolute;
+	width: 100%;
+	bottom: 100px;
+	text-align: center;
+}
+
+.whygive_title {
+	font-family: georgia, serif;
+	color: white;
+}
