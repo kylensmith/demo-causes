@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(#84B3FF, white);
+	background: #84B3FF;
 }
 .index_content {
 	margin: 50px 100px 0px 100px;
@@ -11,8 +11,8 @@ body {
 }
 
 .george {
-	border: solid 2px;
-	border-radius: 10%;
+/*	border: solid 2px;
+*/	border-radius: 10%;	
 	width: 400px;
 	float: left;
 }
@@ -28,6 +28,7 @@ body {
 }
 
 .index_paragraph {
+	color: white;
 	font-size: 20px;
 	font-family: georgia;
 	width: 400px;
@@ -40,6 +41,7 @@ body {
 }
 
 .index_heading {
+	color: white;
 	font-family: georgia;
 	text-align: center;
 }
