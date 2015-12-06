@@ -1,0 +1,63 @@
+
+.footer-divider {
+	width: 700px;
+	margin: 0 auto;
+	height: 200px;
+
+}
+
+
+
+.footer-section {
+	display: inline-block;
+	margin: auto;
+	width: 600px;
+	/*float: right;*/
+}
+
+
+.footer-section img {
+	display: inline-block;
+	width: 75px;
+	margin: 15px;
+	text-align: center;
+}
+
+#footer-news {
+	width: 100px;	
+/*add spacing to news item*/
+	margin: 0px 25px -2px 25px;
+	
+}
+
+
+.footer-section img:hover {
+	background-color: white;
+	border-radius: 25%;
+}
+
+/*commented out divider markup due to centering inssue*/
+
+.footer-divider hr {
+   display: block;
+   position: relative;
+   padding: 0;
+   margin: auto;
+   height: 0;
+   width: 600px;
+   max-height: 0;
+   font-size: 1px;
+   line-height: 0;
+   clear: both;
+   border: none;
+   border-top: 1px solid #aaaaaa;
+   border-bottom: 1px solid #ffffff;
+   text-align: center;
+}
+
+.footer-disclaimer p {
+	padding: 3px;
+	width: 400px;
+	margin: auto;
+	text-align: center;	
+}

@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+/*body {
+>>>>>>> 6c0be8c7091dddbe59760704d1a7c4a8c0d21fa7
+	background-image: url(pics/background.jpg);
+	background-size: 100%;
+}*/
+
+>>>>>>> footer
 .header-pic { 
 	/*border: black solid 2px;*/
 	border-radius: 60%;
@@ -67,4 +76,11 @@
 .lower-heading {
 	text-align: center;
 
+}
+
+.footer-divider {
+	width: 600px;
+	height:0px;
+	border-width: 1px;
+	border-color: white;
 }
